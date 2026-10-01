@@ -1,0 +1,11 @@
+Nama Kolom,Tipe Data,Missing Values,Missing (%),Jumlah Unik,Contoh Nilai
+order_id,object,0,0.0,45,ORD-1001
+customer_id,object,0,0.0,12,CUST-107
+order_date,datetime64[ns],0,0.0,22,2026-09-03 03:20:26.077152
+total_amount,int64,0,0.0,6,1200000
+coupon_code,object,15,33.33,3,CASHBACK10
+customer_name,object,0,0.0,12,Gita Gutawa
+membership_tier,object,0,0.0,4,Bronze
+city,object,0,0.0,5,Surabaya
+tracking_number,object,45,100.0,0,-
+delivery_status,object,45,100.0,0,-
